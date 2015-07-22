@@ -25,4 +25,4 @@ License: GNU General Public License, version 2
 ## Изменения
 
 ####1.0.
-*Релиз.
+ *Релиз.
