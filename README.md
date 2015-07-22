@@ -1,11 +1,11 @@
-# Discuz-Module-Tutorial  
+# Discuz-Module-Tutorial
 Discuz Module Tutorial (Plugin Setting Page + Profile New Tab)
 
-Tags: discuz module, discuz plugin, tutorial, my first module, create  
-Requires at least: X1.x  
-Tested up to: X3.1  
-Stable tag: 1.0  
-License: GNU General Public License, version 2  
+Tags: discuz module, discuz plugin, tutorial, my first module, create
+Requires at least: X1.x
+Tested up to: X3.1
+Stable tag: 1.0
+License: GNU General Public License, version 2
 
 **My First Module** — это 100% рабочий и бесплатный плагин-шаблон для Discuz!X
 Предназначен для ознакомления со структурой и стандартами кода Discuz.
@@ -24,5 +24,5 @@ License: GNU General Public License, version 2
 
 ## Изменения
 
-####1.0.0
+####1.0.
 *Релиз.
